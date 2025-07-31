@@ -81,6 +81,8 @@ list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 input_number = int(input("Enter a number to check if it's in the list: "))
 if input_number in list:
     print(input_number, "is in the list")
+    
 else:
     print(input_number, "is not in the list")
+    
     
