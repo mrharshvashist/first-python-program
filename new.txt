@@ -1,0 +1,5 @@
+This is a new file created with the 'x' mode.
+This is additional content added to the file.
+This is additional content added to the file.
+This is another line of additional content.
+End of additional content.

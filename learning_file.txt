@@ -1,3 +1,6 @@
 - create,open,read,edit files.
 - deleting files with os module.
 - folder creation using "os.makedirs"
+- iterative and recursive fucntions.
+- use for..in loop to read/print the txt file.
+
